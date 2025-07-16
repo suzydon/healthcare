@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analytics Dashboard (Python Version)
+# Healthcare Analytics Dashboard (Python Version)
 
 # Project Purpose
 
