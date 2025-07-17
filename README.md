@@ -40,6 +40,13 @@ Here are some sample visualizations from the healthcare dashboard:
 ### Gender Distribution
 
 ![Gender Distribution](figsfigs/gender_distribution.png)
+![CancerType Distribution](figsfigs/cancer_type_distribution.png)
+![Hospital Distribution](figsfigs/hospital_distribution.png)
+![Outcome Distribution](figsfigs/outcome_distribution.png)
+![treatment Distribution](figsfigs/treatment_distribution.png)
+![Outcome Distribution](figsfigs/outcome_distribution.png)
+![Survival Distribution](figsfigs/survival_by_region.png)
+
 
 
 
