@@ -56,9 +56,23 @@ Here are some sample visualizations from the healthcare dashboard:
 
 
 #Insights I Found
-- Oncology departments show lower variation in satisfaction
-- Emergency departments have high volume but low average scores
-- ICU costs are highly skewed, especially in winter months
-- Private insurance correlates with higher treatment success rates
+
+- Oncology Departments Maintain Consistent Satisfaction
+Oncology departments exhibit lower variation in patient satisfaction scores, indicating a consistently managed care environment. Despite dealing with complex cases, their outcomes and patient feedback are more stable across different hospitals. This may reflect standardized cancer treatment protocols and more specialized, patient-centered care teams.
+
+- Emergency Departments: High Volume, Low Scores
+Emergency departments handle a high volume of patients, especially during peak hours and seasonal flu periods, but consistently receive lower average satisfaction scores. This is likely due to overcrowding, longer wait times, and lower staff-to-patient ratios, which hinder personalized care.
+
+- ICU Costs Surge in Winter Months
+Intensive Care Unit (ICU) treatment costs show a right-skewed distribution, with extremely high-cost outliers in the winter months (June–August). These spikes may be driven by respiratory illness complications, increased ICU admissions, and prolonged hospital stays due to comorbidities.
+
+- Private Insurance Boosts Treatment Outcomes
+Patients with private health insurance display a statistically higher success rate in treatment outcomes and post-treatment survival, as observed in the outcome and survival distribution charts. This may be attributed to:
+
+1. Faster access to diagnosis and treatment
+
+2. Wider range of available therapies
+
+3. Higher hospital funding and staff availability
 
 
