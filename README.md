@@ -35,11 +35,11 @@ Here are some sample visualizations from the healthcare dashboard:
 
 ### Age Distribution
 
-![Age Distribution](figs/age_distribution.png)
+![Age Distribution](figsfigs/age_distribution.png)
 
 ### Gender Distribution
 
-![Gender Distribution](figs/gender_distribution.png)
+![Gender Distribution](figsfigs/gender_distribution.png)
 
 
 
