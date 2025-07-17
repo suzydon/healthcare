@@ -35,10 +35,10 @@ Here are some sample visualizations from the healthcare dashboard:
 ![Age Distribution](figs/age_distribution.png)
 
 ### Gender Distribution
-![Gender Distribution](figs/gender_distribution.png)
+![Gender Distribution](figs/cancer_type_distribution.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](figs/heatmap_correlation.png)
+![Correlation Heatmap](figs/survival_by_region.png)
 
 
 #Insights I Found
