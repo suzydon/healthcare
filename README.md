@@ -28,7 +28,18 @@ This kind of data-driven dashboard is relevant for:
 
 #Sample Visualizations
 
-_(Upload 2–3 images as sample outputs once plotted)_
+
+Here are some sample visualizations from the healthcare dashboard:
+
+### Age Distribution
+![Age Distribution](figs/age_distribution.png)
+
+### Gender Distribution
+![Gender Distribution](figs/gender_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](figs/heatmap_correlation.png)
+
 
 #Insights I Found
 - Oncology departments show lower variation in satisfaction
